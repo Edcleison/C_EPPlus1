@@ -1,0 +1,33 @@
+﻿[
+  {
+    "Id": 1,
+    "Logradouro": "Rua.Teste",
+    "Numero": 140,
+    "Bairro": "Centro",
+    "Cidade": "São Paulo",
+    "UF": "SP"
+  },
+  {
+    "Id": 2,
+    "Logradouro": "Av.Paulista",
+    "Numero": 1500,
+    "Bairro": "Centro",
+    "Cidade": "São Paulo",
+    "UF": "SP"
+  },
+  {
+    "Id": 3,
+    "Logradouro": "Av.Paulista",
+    "Numero": 123,
+    "Bairro": "Centro",
+    "Cidade": "São Paulo"
+  },
+  {
+    "Id": 4,
+    "Logradouro": "Av.UM",
+    "Numero": 253,
+    "Bairro": "Centro",
+    "Cidade": "São Paulo",
+    "UF": "SP"
+  }
+]
